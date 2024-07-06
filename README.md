@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Neeraj and I'm a MERN Stack Developer
+Hi! My name is Neeraj and I'm a Full Stack Developer
 
 
 ## 🌐 Socials:
